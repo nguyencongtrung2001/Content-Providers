@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="sdt">Số điện thoại </string>
+    <string name="title">Chọn số diện thoại để xem tin nhắn  </string>
+    <string name="change">Quay lại </string>
+
+</resources>
